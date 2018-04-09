@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AppBar">
+        <attr name="msg" format="string" />
+        <attr name="showBackButton" format="boolean" />
+        <attr name="showAdditionalButton" format="boolean" />
+        <attr name="additionalButtonIcon" format="reference" />
+    </declare-styleable>
+</resources>
